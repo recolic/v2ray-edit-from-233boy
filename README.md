@@ -4,7 +4,7 @@
 ## 快速运行此脚本
 
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/rootmelo92118/v2ray-edit-from-233boy/master/install.sh)
+bash <(curl -sL https://raw.githubusercontent.com/recolic/v2ray-edit-from-233boy/master/install.sh)
 ```
 
 ## 搭建教程
